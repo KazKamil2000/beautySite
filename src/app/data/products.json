@@ -1,9 +1,184 @@
-{
-"products" : [
-    {
-        "id": "1",
-        "name": "Świecowanie uszu",
-        "shortDesc": ""
-    }
+[
+  {
+    "id": "1",
+    "name": "Świecowanie Uszu",
+    "shortDesc": "Świecowanie uszu było znane już w starożytności. Ta naturalna metoda łagodzi różne dolegliwości i przetrwała do dziś. Jej skuteczność opiera się na działaniu wspomagającym i sfery energetycznej.",
+    "desc": "Jak wygląda terapia świecowania uszu? Zabieg ten pozwala odprężyć całe ciało. Jest przyjemny i efektywny. Pacjent kładzie się na boku na stole, a kojąca atmosfera pozwala się zrelaksować i uspokoić. Głowę i okolice ucha zabezpiecza się, a odsłonięte jest tylko ucho, aby terapeuta miał do niego łatwy dostęp. Naturalną świecę umieszcza się w uchu, aby oczyścić uszy z woskowiny i innych zanieczyszczeń. Świece używane do zabiegów są wykonywane ręcznie, mają postać rurki z woskowanego płótna lnianego, ekstraktu miodowego i wosku pszczelego. Podczas zabiegu prąd podciśnienia wyciąga wszelkie osady i nadmiar woskowiny z kanałów usznych, ciepło stymuluje punkty energetyczne ucha i powoduje przywrócenie prawidłowego obiegu energii.Terapię warto powtarzać, aby uzyskać najlepsze i długotrwałe efekty. Choć już po pierwszym zabiegu, można zauważyć pozytywne zmiany. Warto zapytać lekarza o najlepiej dobraną częstotliwość zabiegów. Zabieg jest bardzo przyjemny, relaksujący i odprężający.",
+    "when": [
+      "nadmiar woskowiny",
+      "podrażnienia uszu lub zatok",
+      "nieżyt dróg oddechowych",
+      "katar, szumy oraz dzwonienie w uszach",
+      "stres",
+      "niedrożność kanałów zatokowych",
+      "potrzeba regulacji ciśnienia w niektórych przypadkach bólów głowy",
+      "Dodatkowo ciepłe świece aktywizują i udrażniają węzły chłonne",
+      "limfę",
+      "usprawniają procesy metaboliczne"
+    ],
+    "prosShort": [
+      "Usunięcie nadmiaru woskowiny w uchu",
+      "Problemy z ostrością słuchu",
+      "Szumy w uszach",
+      "Regulacja ciśnienia ucha",
+      "Przeziębienie",
+      "Ból i zapalenie zatok",
+      "Bóle głowy",
+      "Zaburzenia równowagi związane z błędnikiem",
+      "Problemy ze snem"
+    ],
+    "cons": null,
+    "benefits": "Zabieg świecowania uszu jest relaksującym i przyjemnym doznaniem. Oprócz pozbycia się nagromadzonych zanieczyszczeń, które są efektywnie usuwane podczas zabiegu, możemy odczuć też wiele innych efektów. Ciepło świecy wpływa na odblokowanie zatkanego nosa, oddech jest głębszy, lżejszy i spokojniejszy. Dzięki rozgrzaniu okolic ucha, można złagodzić wszelkie bóle głowy i zatok, a lepszy przepływ krążenia w tych obszarach przyczynia się do wzmacniania naszej naturalnej odporności. Dzięki zabiegowi może polepszyć się jakość słuchu, która często może być zakłócona poprzez nadmiernie nagromadzoną ilość woskowiny.  Świecowanie Polecamy zarówno osobom młodym, jak i starszym, którzy chcą poczuć ulgę i zadbać o jakość swojego słuchu.",
+    "example": null,
+    "time": null
+  },
+  {
+    "id": "2",
+    "name": "Maszaż Klasyczny",
+    "shortDesc": "Masaż klasyczny  to najpopularniejszy z typów masaży. Zwany inaczej masażem szwedzkim. Ma bardzo dobry wpływ na nasz organizm. Poprawia nasze samopoczucie, zmniejsza napięcia mięśni oraz zmniejsza zmęczenie.",
+    "desc": "Masaż klasyczny pobudza krążenie krwi, oczyszcza nasz organizm ze szkodliwych substancji, wzmacnia nasze kości, stawy oraz mięśnie. Jest świetnym lekarstwem na stres, pomaga zregenerować siły. Jeżeli będziemy regularnie korzystać z dobrodziejstwa masażu klasycznego istnieje duża szansa na opóźnienie starzenia się naszego organizmu, poprawie jakości naszej skóry i ujędrnieniu mięśni.  Masaż klasyczny można stosować na wybrane partie ciała np. kończyny dolne, górne, plecy, barki lub całościowo na całe ciało.",
+    "when": [
+      "siedzący tryb życia, mała ilość ruchu",
+      "życie w ciągłym biegu i stresie",
+      "zmęczenie i bolące mięśnie",
+      "problemy z zasypianiem"
+    ],
+    "prosShort": null,
+    "cons": null,
+    "benefits": [
+      "zmniejsza stres, poprawia jakość snu",
+      "poprawia poziom samopoczucia",
+      "poprawia wygląd skóry, odmładza",
+      "zmniejsza napięcie mięśni"
+    ],
+    "example": null,
+    "time": "30 - 40 - 60"
+  },
+  {
+    "id": "3",
+    "name": "Masaż Relaksacyjny",
+    "shortDesc": "Masaż relaksacyjny jest typem masażu, który posiada świetne właściwości relaksacyjne i odstresowujące. Masaż relaksacyjny wykonuje się wolno i rytmicznie aby wyeliminować napięcie mięśni czy stres.",
+    "desc": "Jest też świetnym rozwiązaniem na poprawę samopoczucia. Ma również bardzo dobry wpływ na stan i koloryt naszej skóry, poprawia krążenie krwi, przywraca nasz prawidłowy rytm serca. Masaż klasyczny działa kojąco na nasz układ nerwowy, dlatego jest szczególnie polecany dla osób zestresowanych, potrzebujących odprężenia lub mających problemy ze snem",
+    "when": [""],
+    "prosShort": [
+      "potrzeba relaksu, odprężenia",
+      "życie w ciągłym biegu i stresie",
+      "zmęczenie i bolące mięśnie",
+      "problemy z zasypianiem"
+    ],
+    "cons": null,
+    "benefits": [
+      "Zmniejsza napięcie mięśniowe, poprawia nastrój",
+      "przynosi głębokie ukojenie",
+      "Poprawia jakość snu"
+    ],
+    "example": null,
+    "time": "40 - 60 - 90"
+  },
+  {
+    "id": "4",
+    "name": "Masaż Stemplami Ziołowymi",
+    "shortDesc": "Ziołolecznictwo ,masaż, to podstawowe działania tradycyjnej medycyny tajskiej. W Tajlandii  te elementy są stosowane razem w celach profilaktycznych lub leczniczych. Daje nam rozluźnienie i ukojenie całego ciała.",
+    "desc": "Masaż stemplami ziołowymi jest w Tajlandii nazywany 'luk prakhop'. Jest to masaż całego ciała, w czasie którego, dodatkowo stosuje się tzw. stemple ziołowe. Stemple ziołowe to zawinięte w bawełnę specjalne mieszanki ziół. Należy je podgrzać przed masażem, aby uwolnić aromaty i wzmocnić kojące działanie. W czasie masażu skóra masowanego jest uciskana rozgrzanymi stemplami ziołowymi. Zabieg polega na  punktowych dotknięciach bawełnianymi sakiewkami, z których każde zakończone jest lekkim dociśnięciem stempla do ciała.",
+    "when": [""],
+    "prosShort": null,
+    "cons": null,
+    "benefits": [
+      "Rozluźnienia mięśnie i więzadła",
+      "Poprawia ukrwienie",
+      "Działa przeciwbólowo",
+      "Działa antystresowo i relaksacyjnie",
+      "Podnosi odporność",
+      "Stymuluje przepływ energii (ogólna stymulacja układu nerwowego i krążenia)",
+      "Wykazuje działanie antycellulitowe",
+      "Oczyszcza płuca i zatoki, poprawia oddech"
+    ],
+    "example": [
+      "Żółty imbir, palczatka cytrynowa, ostryż, liście limonki, sól, kamfora.",
+      "Imbir, kora i liście limonki, liście eukaliptusa, liście cynamonowca cejlońskiego, kamfora.",
+      "Można też stworzyć własne kompozycje"
+    ],
+    "time": "60 - 90"
+  },
+  {
+    "id": "5",
+    "name": "Masaż Ciepłymi Kamieniami",
+    "shortDesc": "Co daje taki masaż? Ten masaż przede wszystkim da nam ciepło relaks i odprężenie. W czasie masażu używa się kamieni bazaltowych i olejków aromatycznych. Kamienie układa się w tzw punktach energetycznych. Następnie wykonuje się masaż kamieniami które przynoszą spokój harmonię i równowagę.",
+    "desc": "Bazalt to najbardziej popularny typ kamienia stosowany w terapii gorącymi kamieniami. Gładka powierzchnia kamieni, pozbawiona porów, posiada wyjątkowe właściwości do utrzymywania ciepła. Leczenie chorób naczyń krwionośnych może być wspierane przez wysoką zawartość rdzy w bazalcie. Dodatkowo może wpływać rozluźniająco na układ mięśniowy oraz na poprawę nastroju.",
+    "when": [""],
+    "prosShort": [
+      "Poprawia krążenie",
+      "Rozszerza naczynia krwionośne, powodując lepszą cyrkulację krwi",
+      "Podwyższa puls, przyspiesza pracę serca",
+      "Zwiększa funkcje limfatyczne",
+      "Powoduje głębokie rozluźnienie mięśni, pomagając pozbyć się stresu i napięcia",
+      "Zapewnia poczucie głębszego relaksu",
+      "Pomaga w chorobach reumatycznych"
+    ],
+    "cons": [
+      "Choroby nowotworowe",
+      "Choroby serca z problemami krążeniowymi",
+      "Nadciśnienie",
+      "Skłonności do żylaków oraz zakrzepów",
+      "Ciąża"
+    ],
+    "benefits": null,
+    "example": null,
+    "time": "60 - 120"
+  },
+  {
+    "id": "6",
+    "name": "Masaż Twarzy Kobido",
+    "shortDesc": "masaż kobido to rodzaj tradycyjnego japońskiego masażu twarzy (choć jego korzenie sięgają starożytnych chin). często określa się go metodą niechirurgicznego litingu twarzy, co z pewnością sprzyja jego popularności nie tylko w kraju kwitnącej wiśni, ale na całym świecie. stanowi zupełnie naturalną i nieinwazyjną alternatywę dla zabiegów medycyny estetycznej.",
+    "desc": "zabieg ma zadanie rozluźnić mięśnie głębokie twarzy, a także ją ujędrniać. pomaga też pobudzić mikrokrążenie oraz polepsza wchłanianie się substancji odżywczych. masaż KOBIDO to zaawansowana technika stymulacji mięśni, która daje efekty już po pierwszej sesji zabiegu – skóra staje się odprężona i zyskuje zdrowy koloryt, jest też bardziej napięta. Promienny wygląd, odpoczynek i relaks dzięki masażowi twarzy KOBIDO Ma działanie odmładzające, skutecznie pomaga w niwelowaniu oznak starzenia się skóry twarzy. ograniczy powstawanie zmarszczek mimicznych i zmniejszy te już istniejące. korzystnie wpłynie na koloryt skóry i kontur twarzy. zapewni młodszy wygląd poprzez zmniejszenie oznak starzenia się skóry. Ważne jest regularne wykonywanie masażu twarzy kobido. Aby zabieg przyniósł korzyści, warto, aby odbywał się w pierwszym miesiącu przynajmniej raz lub dwa razy w tygodniu następnie co dwa tygodnie a do utrzymania efektu raz w miesiącu.",
+    "when": [""],
+    "prosShort": [
+      "masaż twarzy KOBIDO poprawia nie tylko wygląd, ale rozluźnia i wpływa pozytywnie na samopoczucie",
+      "zabieg dotyczy zarówno twarzy jak i karku i szyi, co sprzyja pozbyciu się napięć i sztywności",
+      "poprawia cyrkulację",
+      "stymuluje metabolizm komórkowy, dzięki czemu szybciej dochodzi do regeneracji mięśni",
+      "Zmniejszenie napięcia mięśniowego ograniczy pojawianie się nawracających migren, skutków bruksizmu (szczękościsku)"
+    ],
+    "cons": [
+      "przeciwwskazaniem do zabiegu jest aktywny trądzik oraz stany zapalne",
+      "przeprowadzone zabiegi chirurgii inwazyjnej nie stanowią przeciwwskazania, ale wymagają stanu całkowitego zagojenia",
+      "ekstrakcja zęba (przed lub po zabiegu)",
+      "naruszony naskórek",
+      "cera naczyniowa",
+      "botoks (do 2. tygodni od ostatniego zabiegu)"
+    ],
+    "benefits": null,
+    "example": null,
+    "time": "60 - 75"
+  },
+  {
+    "id": "7",
+    "name": "Peeling Kawitacyjny",
+    "shortDesc": "Peeling kawitacyjny jest zabiegiem polegający na usunięciu martwych warstw naskórka.Za pomocą urządzenia emitującego falę ultradźwiękową. Efektem działania peelingu kawitacyjnego jest poprawa mikrokrążenia, odżywienia, elastyczności i napięcia skóry oczyszcza skórę z toksyn i zaskórników.Skóra jest dokładnie oczyszczona rozświetlona, daje uczucie świeżości.",
+    "desc": "Główną rolę odgrywa zjawisko kawitacji. Skóra do zabiegu jest nawilżona a urządzenie emitujące falę ultradźwiękową, w kontakcie z cieczą powoduje powstawanie mikropęcherzyków. W krótkim czasie pęcherzyki pękają. Powoduje to rozbijanie martwych komórek warstwy rogowej naskórka, bez uszkodzenia warstw głębiej położonych. Zabieg można powtarzać co 10 dni wszystko w zależności od rodzaju i kondycji skóry. Pierwsze efekty widać już po pierwszym zabiegu! Przez 24 h po zabiegu zakaz korzystania z sauny i basenów. Przez około 7 dni stosować kremy z filtrem oraz unikać kąpieli słonecznych.",
+    "when": [""],
+    "prosShort": [
+      "Szara zmęczona skóra",
+      "Rozszerzone pory",
+      "Zaburzenia rogowacenia",
+      "Tłusta mieszana cera",
+      "Przebarwienia",
+      "Zaskórniki",
+      "przygotowanie do dalszych zabiegów"
+    ],
+    "cons": [
+      "Metalowe elementy",
+      "Rozrusznik serca",
+      "Aktywne stany zapalne, wirusowe, bakteryjne, grzybicze skóry",
+      "Świeże otarcia i blizny",
+      "Ostre ropne zapalenia skóry",
+      "Nowotwory",
+      "Ciąża",
+      "Przeprowadzona niedawno (w przeciągu kilku dni) kuracja kwasami",
+      "mocniejsze złuszczanie"
+    ],
+    "benefits": [""],
+    "example": null,
+    "time": "30 - 60"
+  }
 ]
-}
