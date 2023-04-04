@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import porductData from '../products.json';
 import { ProductsModel } from '../products.model';
+import { SelectService } from '../select.service';
 
 @Component({
   selector: 'app-products',
@@ -9,4 +10,8 @@ import { ProductsModel } from '../products.model';
 })
 export class ProductsComponent {
 products: ProductsModel[] = porductData;
+
+constructor(private selectService: SelectService){}
+
+
 }
