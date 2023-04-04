@@ -1,8 +1,8 @@
 export interface ProductsModel {
-    id: any,
+    id: string,
     name: string,
     shortDesc: string,
-    desc: any,
+    desc: string,
     when: any,
     prosShort: any,
     cons: any,
