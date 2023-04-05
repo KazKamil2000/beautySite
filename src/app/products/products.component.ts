@@ -13,5 +13,9 @@ products: ProductsModel[] = porductData;
 
 constructor(private selectService: SelectService){}
 
+moreInfo(i: number){
+  this.selectService.selectedProduct.next(i);
+  console.log(i);
+}
 
 }
