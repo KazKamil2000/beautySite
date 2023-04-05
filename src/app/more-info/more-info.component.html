@@ -1,5 +1,32 @@
 <section class="pt-4">
-  <div class="container px-lg-5">
-    <h1>{{ products[selectedProduct].name }}</h1>
+  <div class="container px-lg-5 text-center">
+    <h1 class="pb-4">{{ products[selectedProduct].name }}</h1>
+
+    <h2>Opis zabiegu</h2>
+    <p>{{ products[selectedProduct].desc }}</p>
+
+    <h2>Kiedy Stosować</h2>
+    <ul>
+      <li>
+        {{ products[selectedProduct].when }}
+      </li>
+    </ul>
+
+    <h2>Zalety</h2>
+    <p>{{ products[selectedProduct].prosShort }}</p>
+
+    <h2>Przeciwskazania</h2>
+    <p>{{ products[selectedProduct].cons }}</p>
+
+    <h2>Korzyści</h2>
+    <p>{{ products[selectedProduct].benefits }}</p>
+
+    <h2 *ngIf="products[selectedProduct].example != null">
+      Przykładowa mieszanka
+    </h2>
+    <p>{{ products[selectedProduct].example }}</p>
+
+    <h2>Czas trwania zabiegu</h2>
+    <p>{{ products[selectedProduct].time }} min</p>
   </div>
 </section>
