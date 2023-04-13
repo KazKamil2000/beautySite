@@ -3,11 +3,11 @@ export interface ProductsModel {
     name: any,
     shortDesc: any,
     desc: any,
-    when: any,
-    prosShort: any,
-    cons: any,
-    benefits: any,
-    example: any,
-    time: any,
-    image: any
+    when: any | null,
+    prosShort: any | null,
+    cons: any | null,
+    benefits: any | null,
+    example: any | null,
+    time: any | null,
+    image: string
 }

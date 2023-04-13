@@ -7,7 +7,7 @@
         *ngFor="let product of products; index as i"
       >
         <div class="card bg-light">
-          <img src="../../images/massage.jpg" class="card-img-top" />
+          <img [src]=product.image class="card-img-top"/>
           <div class="card-body text-center p-4 p-lg-5">
             <h2 class="fs-4 card-title fw-bold">{{ product.name }}</h2>
             <p class="mb-0 card-text">{{ product.shortDesc }}</p>
