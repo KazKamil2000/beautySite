@@ -1,6 +1,14 @@
 <section class="pt-4">
+  <header class="py-5">
+    <div class="container px-lg-5">
+      <div class="p-4 p-lg-5 rounded-3 text-center main-header">
+        <div class="m-4 m-lg-5">
+          <h1 class="display-5 fw-bold">{{ products[selectedProduct].name }}</h1>
+        </div>
+      </div>
+    </div>
+  </header>
   <div class="container px-lg-5 text-center">
-    <h1 class="pb-4">{{ products[selectedProduct].name }}</h1>
 
     <h2>Opis zabiegu</h2>
     <p>{{ products[selectedProduct].desc }}</p>
