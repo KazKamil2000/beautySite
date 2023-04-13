@@ -30,7 +30,8 @@
     "cons": null,
     "benefits": "Zabieg świecowania uszu jest relaksującym i przyjemnym doznaniem. Oprócz pozbycia się nagromadzonych zanieczyszczeń, które są efektywnie usuwane podczas zabiegu, możemy odczuć też wiele innych efektów. Ciepło świecy wpływa na odblokowanie zatkanego nosa, oddech jest głębszy, lżejszy i spokojniejszy. Dzięki rozgrzaniu okolic ucha, można złagodzić wszelkie bóle głowy i zatok, a lepszy przepływ krążenia w tych obszarach przyczynia się do wzmacniania naszej naturalnej odporności. Dzięki zabiegowi może polepszyć się jakość słuchu, która często może być zakłócona poprzez nadmiernie nagromadzoną ilość woskowiny.  Świecowanie Polecamy zarówno osobom młodym, jak i starszym, którzy chcą poczuć ulgę i zadbać o jakość swojego słuchu.",
     "example": null,
-    "time": null
+    "time": null,
+    "image": "../../images/massage.jpg"
   },
   {
     "id": "2",
@@ -52,7 +53,8 @@
       "zmniejsza napięcie mięśni"
     ],
     "example": null,
-    "time": "30 - 40 - 60"
+    "time": "30 - 40 - 60",
+    "image": null
   },
   {
     "id": "3",
@@ -73,7 +75,8 @@
       "Poprawia jakość snu"
     ],
     "example": null,
-    "time": "40 - 60 - 90"
+    "time": "40 - 60 - 90",
+    "image": null
   },
   {
     "id": "4",
@@ -98,7 +101,8 @@
       "Imbir, kora i liście limonki, liście eukaliptusa, liście cynamonowca cejlońskiego, kamfora.",
       "Można też stworzyć własne kompozycje"
     ],
-    "time": "60 - 90"
+    "time": "60 - 90",
+    "image": null
   },
   {
     "id": "5",
@@ -124,7 +128,8 @@
     ],
     "benefits": null,
     "example": null,
-    "time": "60 - 120"
+    "time": "60 - 120",
+    "image": null
   },
   {
     "id": "6",
@@ -149,7 +154,8 @@
     ],
     "benefits": null,
     "example": null,
-    "time": "60 - 75"
+    "time": "60 - 75",
+    "image": null
   },
   {
     "id": "7",
@@ -179,6 +185,7 @@
     ],
     "benefits": [""],
     "example": null,
-    "time": "30 - 60"
+    "time": "30 - 60",
+    "image": null
   }
 ]

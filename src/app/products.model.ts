@@ -1,12 +1,13 @@
 export interface ProductsModel {
-    id: string,
-    name: string,
-    shortDesc: string,
-    desc: string,
+    id: any,
+    name: any,
+    shortDesc: any,
+    desc: any,
     when: any,
     prosShort: any,
     cons: any,
     benefits: any,
     example: any,
-    time: any
+    time: any,
+    image: any
 }
