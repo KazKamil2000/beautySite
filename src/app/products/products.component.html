@@ -1,13 +1,17 @@
 <div class="pt-4">
   <div class="container px-lg-5">
-    <h1 class="text-center pb-4">Zabiegi które wykonuje</h1>
+    <div class="p-4 p-lg-5 rounded-3 text-center main-header">
+      <div class="m-4 m-lg-5">
+        <h1 class="display-5 fw-bold">Zabiegi Które Wykonuje</h1>
+      </div>
+    </div>
     <div class="row">
       <div
-        class="col-lg-6 col-xxl-4 mb-5 d-flex align-items-stretch"
+        class="col-lg-6 col-xxl-4 pt-5 mb-5 d-flex align-items-stretch"
         *ngFor="let product of products; index as i"
       >
         <div class="card bg-light">
-          <img [src]=product.image class="card-img-top top-img"/>
+          <img [src]="product.image" class="card-img-top top-img" />
           <div class="card-body text-center p-4 p-lg-5">
             <h2 class="fs-4 card-title fw-bold">{{ product.name }}</h2>
             <p class="mb-0 card-text">{{ product.shortDesc }}</p>

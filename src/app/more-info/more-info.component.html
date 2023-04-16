@@ -3,19 +3,23 @@
     <div class="container px-lg-5">
       <div class="p-4 p-lg-5 rounded-3 text-center main-header">
         <div class="m-4 m-lg-5">
-          <h1 class="display-5 fw-bold">{{ products[selectedProduct].name }}</h1>
+          <h1 class="display-5 fw-bold">
+            {{ products[selectedProduct].name }}
+          </h1>
         </div>
       </div>
     </div>
   </header>
   <div class="container px-lg-5 text-center">
-
     <h1 class="pb-3">Opis zabiegu</h1>
     <p class="text pb-3">{{ products[selectedProduct].desc }}</p>
 
     <h1 class="pb-3">Kiedy Stosować</h1>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item text pb-3" *ngFor="let item of products[selectedProduct].when">
+      <li
+        class="list-group-item text pb-3"
+        *ngFor="let item of products[selectedProduct].when"
+      >
         {{ item | titlecase }}
       </li>
     </ul>

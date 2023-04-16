@@ -2,9 +2,11 @@
   <div class="container px-lg-5">
     <div class="p-4 p-lg-5 rounded-3 text-center main-header">
       <div class="m-4 m-lg-5">
-        <h1 class="display-5 fw-bold">Najlepsze masaże w mieście!</h1>
+        <h1 class="display-5 fw-bold">Najlepsze Masaże W Mieście!</h1>
         <p class="fs-4">Dowiedz się więcej klikając przycisk niżej</p>
-        <a class="btn btn-primary btn-lg" href="#!">Sprawdź Naszą Ofertę</a>
+        <button class="btn btn-primary btn-lg" [routerLink]="'/zabiegi'">
+          Sprawdź Naszą Ofertę
+        </button>
       </div>
     </div>
   </div>
@@ -13,40 +15,64 @@
 <section class="pt-4">
   <div class="container px-lg-5">
     <div class="row">
-      <div class="col-lg-6 col-xxl-4 mb-5">
+      <div class="col-lg-6 col-xxl-4 mb-5 d-flex align-items-stretch">
         <div class="card bg-light">
           <div class="card-body text-center p-4 p-lg-5">
             <h2 class="fs-4 fw-bold">Masaże</h2>
             <p class="mb-0">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Szeroki wybór masaży. Podaruj sobie chwilę relaksu by odpocząć od
+              codzienności.
             </p>
+            <button class="mt-4 btn btn-primary" [routerLink]="'/zabiegi'">
+              Moje Zabiegi
+            </button>
           </div>
         </div>
       </div>
-      <div class="col-lg-6 col-xxl-4 mb-5">
+      <div class="col-lg-6 col-xxl-4 mb-5 d-flex align-items-stretch">
         <div class="card bg-light">
           <div class="card-body text-center p-4 p-lg-5">
             <h2 class="fs-4 fw-bold">Zabiegi Twarzy</h2>
             <p class="mb-0">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Nic nie polepsza wyglądu skóry jak dobrze wykonany zabieg. Umów
+              się na wizytę i by zobaczyć co jakie piękno się w tobie ukrywa
             </p>
+            <button class="mt-4 btn btn-primary" [routerLink]="'/zabiegi'">
+              Moje Zabiegi
+            </button>
           </div>
         </div>
       </div>
       <div class="col-lg-6 col-xxl-4 mb-5">
         <div class="card bg-light">
           <div class="card-body text-center p-4 p-lg-5">
-            <h2 class="fs-4 fw-bold">Świecowanie uszu</h2>
+            <h2 class="fs-4 fw-bold">Świecowanie Uszu</h2>
             <p class="mb-0">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Masz problemy z uszami? Zdarza Ci się niedosłyszeć? Umów się na
+              zabieg świecowania uszu by usłyszeć rezultaty już po pierwszym
+              zabiegu!
             </p>
+            <button class="mt-4 btn btn-primary" [routerLink]="'/zabiegi'">
+              Moje Zabiegi
+            </button>
           </div>
         </div>
       </div>
-      <div class="col-lg-6 col-xxl-4 mb-5">
+      <div class="col-lg-6 col-xxl-4 mb-5 d-flex align-items-stretch">
+        <div class="card bg-light">
+          <div class="card-body text-center p-4 p-lg-5">
+            <h2 class="fs-4 fw-bold">Podaruj Prezent</h2>
+            <p class="mb-0">
+              Chcesz podarować komuś prezent który będzie zawsze dobrze
+              wspominać? Skontaktuj się ze mną i zakup voucher na zabieg.
+            </p>
+            <button class="mt-4 btn btn-primary" [routerLink]="'/kontakt'">
+              Skontaktuj się ze mną
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-xxl-4 mb-5 d-flex align-items-stretch">
         <div class="card bg-light">
           <div class="card-body text-center p-4 p-lg-5">
             <h2 class="fs-4 fw-bold">Lorem Ipsum</h2>
@@ -57,18 +83,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-6 col-xxl-4 mb-5">
-        <div class="card bg-light">
-          <div class="card-body text-center p-4 p-lg-5">
-            <h2 class="fs-4 fw-bold">Lorem Ipsum</h2>
-            <p class="mb-0">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6 col-xxl-4 mb-5">
+      <div class="col-lg-6 col-xxl-4 mb-5 d-flex align-items-stretch">
         <div class="card bg-light">
           <div class="card-body text-center p-4 p-lg-5">
             <h2 class="fs-4 fw-bold">Lorem Ipsum</h2>
